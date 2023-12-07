@@ -8,9 +8,14 @@ My GitHub page is http://github.com/tsugmii.
 
 ### CPSC 120
 
-* Lab 7
+* Lab 1
 
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+Lab 1 introduced me to GitHub and Codespaces. These were central to the CPSC 120 course which was not the first time I coded, but it was the most in-depth I had ever gone. In this lab, I learned how to navigate Github and VS Code.
+
+* Lab 3
+
+Lab 3 showed me that I could make interactive programs. I could use a program I wrote to help people choose where to get their pizza. This code is special to me because it showed me I could use something I made to help others.
+
+* Lab 7 Part 2
+
+Lab 7 part 2 is one of my favorites because I felt the most accomplished when I completed it. Lab 7 part 2 had multiple files to work with which added to the difficulty. I learned to use all of my resources and that as long as I was dedicated enough I could finish it. 
